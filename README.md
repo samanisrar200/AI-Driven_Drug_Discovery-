@@ -1,9 +1,7 @@
-#Project Title: AI-Driven Drug Discovery for Antibiotic Resistance Using Molecular Docking & Machine Learning
+#Project Title: AI-Assisted Drug Discovery of DNA Gyrase Inhibitors Against Staphylococcus aureus
 
 Objective:
-•	Build an AI model to screen for potential antibiotic compounds.
-•	Use molecular docking to validate promising hits.
-•	Optimize the pipeline for rapid drug discovery
+To develop a machine learning pipeline to predict and validate novel inhibitors of Staphylococcus aureus DNA Gyrase (CHEMBL3038482) using molecular docking, traditional ML models, and transcriptomic validation.
 
 Methodology
 1. Data Collection using public repositories(ChEMBL) and Target Protein Selection 
